@@ -8,7 +8,7 @@
 ## Featured Projects
 1. [Globo](https://globoo.vercel.app/)
 2. [CryptoSafe](https://cryptosafearg.netlify.app/)
-3. [Glass Menu](https://cantinaglass.vercel.app/)
+3. [1998 - Streetwear](https://agucamejo.github.io/1998-Streetwear/)
 
 <br />
 
