@@ -1,7 +1,7 @@
 ## Hi friend 👋 I'm [Agu](https://agucamejo.netlify.app/).
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning [React] (https://reactjs.org).
+- 🌱 I’m currently learning [React](https://reactjs.org).
 
 <br />
 
