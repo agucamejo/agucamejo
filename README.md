@@ -8,6 +8,7 @@
 ## Featured Projects
 1. [Globo](https://globoo.vercel.app/)
 2. [CryptoSafe](https://cryptosafearg.netlify.app/)
+3. [Glass Menu](https://cantinaglass.vercel.app/)
 
 <br />
 
@@ -16,6 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+
+<br />
 
 ## Objectives
 My primary goal is to solidify my skills, continually learn and explore new technologies, and make meaningful contributions to exciting projects.
