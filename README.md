@@ -1,4 +1,4 @@
-## Hi friend 👋 I'm [Agu](https://agucamejo.netlify.app/), a passionate Frontend Dev constantly seeking opportunities for growth. 
+## Hi friend 👋 I'm [Agu](https://agucamejo.netlify.app/), a passionate dev constantly seeking opportunities for growth. 
 - ❤ I enjoy working on projects that challenge my skills and help me evolve as a developer.
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning [React](https://reactjs.org).
